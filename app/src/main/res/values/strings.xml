@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CatZio</string>
+
+    <string name="string_todo1" />
+    <string name="todo">TODO</string>
+    <string name="user_name">USER NAME</string>
+    <string name="userinput">userInput</string>
+    <string name="catziotitle">catzioTitle</string>
+    <string name="userinputvalue">userinputvalue</string>
+    <string name="login">LOGIN</string>
+    <string name="password">PASSWORD</string>
+    <string name="register_here">Register Here</string>
+    <string name="by_continuing_you_accept_our_privacy_policy_and_terms_of_use">By continuing, you accept our Privacy Policy and Terms of Use.</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+
+</resources>
